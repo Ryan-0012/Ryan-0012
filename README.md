@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oi!! eu sou a Ryan-0012!
+## Oi!! eu sou o Ryan-0012!
 <div align="center">
   <a href="https://github.com/Ryan-0012">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-0012&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
